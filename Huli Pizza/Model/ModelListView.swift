@@ -16,6 +16,7 @@ struct ModelListView: View {
                     .scaledToFit()
                 Text("Huli Pizza Company")
                     .font(.title)
+                    .foregroundColor(.white)
             }
             Text("Order Pizza")
                 .font(.largeTitle)
