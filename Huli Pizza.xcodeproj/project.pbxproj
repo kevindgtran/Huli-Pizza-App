@@ -18,6 +18,8 @@
 		92CD0CC0265DF2030097EA40 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92CD0CBF265DF2030097EA40 /* ContentView.swift */; };
 		92CD0CC2265DF2040097EA40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92CD0CC1265DF2040097EA40 /* Assets.xcassets */; };
 		92CD0CC5265DF2040097EA40 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92CD0CC4265DF2040097EA40 /* Preview Assets.xcassets */; };
+		92D60F69266714AF004A105F /* ContentView4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D60F68266714AF004A105F /* ContentView4.swift */; };
+		92D60F6C2667183B004A105F /* RootTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D60F6B2667183B004A105F /* RootTabView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		92CD0CC1265DF2040097EA40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92CD0CC4265DF2040097EA40 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		92CD0CC6265DF2040097EA40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92D60F68266714AF004A105F /* ContentView4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView4.swift; sourceTree = "<group>"; };
+		92D60F6B2667183B004A105F /* RootTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootTabView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 				92CD0CBF265DF2030097EA40 /* ContentView.swift */,
 				929143BE2660916700CAFB55 /* ContentView2.swift */,
 				929143C1266096A100CAFB55 /* ContentView3.swift */,
+				92D60F68266714AF004A105F /* ContentView4.swift */,
+				92D60F6B2667183B004A105F /* RootTabView.swift */,
 				92CD0CC1265DF2040097EA40 /* Assets.xcassets */,
 				92CD0CC6265DF2040097EA40 /* Info.plist */,
 				92CD0CC3265DF2040097EA40 /* Preview Content */,
@@ -194,10 +200,12 @@
 				929143B926608F8700CAFB55 /* OrderRowView.swift in Sources */,
 				92CD0CC0265DF2030097EA40 /* ContentView.swift in Sources */,
 				927A9D56265F2B1300115877 /* MenuListView.swift in Sources */,
+				92D60F69266714AF004A105F /* ContentView4.swift in Sources */,
 				92CD0CBE265DF2030097EA40 /* Huli_PizzaApp.swift in Sources */,
 				927A9D53265F2A5B00115877 /* OrderListView.swift in Sources */,
 				929143BF2660916700CAFB55 /* ContentView2.swift in Sources */,
 				929143C2266096A100CAFB55 /* ContentView3.swift in Sources */,
+				92D60F6C2667183B004A105F /* RootTabView.swift in Sources */,
 				929143BC26608FF700CAFB55 /* MenuRowView.swift in Sources */,
 				927A9D59265F2BFD00115877 /* ModelListView.swift in Sources */,
 			);
